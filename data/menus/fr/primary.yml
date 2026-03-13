@@ -1,7 +1,7 @@
 ---
 title: Menu principal
 items:
-- title: farandole sacrée
+- title: Farandole Sacrée
   slug: farandole-sacree
   target: "/farandole-sacree/"
   kind: page
@@ -28,4 +28,13 @@ items:
   descendants_targets: []
   path: "/pages/la-monstrueuse-parade"
   file: content/fr/pages/la-monstrueuse-parade/_index.html
+- title: Illustration Jeunesse
+  slug: illustration-jeunesse
+  target: "/illustration-jeunesse/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/illustration-jeunesse"
+  file: content/fr/pages/illustration-jeunesse/_index.html
 
